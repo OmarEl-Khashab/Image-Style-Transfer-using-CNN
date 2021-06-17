@@ -14,4 +14,6 @@ Project is created with:
 * Pytorch version: 1.8.0
 
 ## Output
+check the code output:
+https://www.linkedin.com/feed/update/urn:li:activity:6760321850833690624/
 
