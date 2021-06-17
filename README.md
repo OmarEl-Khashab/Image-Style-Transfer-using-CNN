@@ -13,9 +13,6 @@
 ## Technologies
 Project is created with:
 * Pytorch version: 1.8.0
-	
-## Setup
-
 
 ## Output
 
