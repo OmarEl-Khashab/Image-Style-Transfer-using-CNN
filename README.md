@@ -3,7 +3,6 @@
 ## Table of contents
 * [Inroduction](#Introducation)
 * [Technologies](#Technologies)
-* [Setup](#setup)
 
 ## Introduction
 * My First AI paper implmentation " Style Transfer " the concept behind it is to separate and recombine 
