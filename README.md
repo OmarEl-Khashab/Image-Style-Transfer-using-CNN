@@ -8,6 +8,7 @@ The implementation is based on the paper of Gatys et al. emphasizes the effectiv
 
 ## Table of contents
 * [Inroduction](#Introducation)
+* [Idea Behind](#idea-behind) 
 * [Prerequisites](#prerequisites)
 * [Installation and Setup](#Installationand_Setup)
 * [Output](#OutputVideo)
