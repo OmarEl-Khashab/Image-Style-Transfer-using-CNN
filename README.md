@@ -9,8 +9,8 @@ The implementation is based on the paper of Gatys et al. emphasizes the effectiv
 ## Table of contents
 * [Inroduction](#Introducation)
 * [Prerequisites](#prerequisites)
-* [Installation and Setup](#Installation and Setup)
-* [Output](#Technologies)Acknowledgement
+* [Installation and Setup](#Installation_and_Setup)
+* [Output](#Technologies)
 * [Acknowledgement](#Acknowledgement)
 
 ## Introduction
@@ -71,7 +71,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:6760321850833690624/
 
 ## Acknowledgement
 
-This is a big thanks for @AbdallaGomaa for guidance in my is Machine learning Projects.
+This is a big thanks for [@AbdallaGomaa] (https://github.com/AbdallaGomaa) for guidance in my is Machine learning Projects.
 
 Feel free to contribute reach out for the project by opening issues or submitting pull requests. If you have any questions, contact me at omar_khashab11@hotmail.com
 
