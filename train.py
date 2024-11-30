@@ -5,9 +5,9 @@ from PIL import Image
 import torchvision.transforms as transforms
 import torchvision.transforms.functional as F
 
-from Model import VGG19
+from model import VGG19
 from torch import optim
-from Losses import Style_loss, Content_Loss
+from loss import Style_loss, Content_Loss
 
 
 def image_load(img_path):

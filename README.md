@@ -53,7 +53,7 @@ with the aesthetics of well-known artworks.
 
 2.  **Add your image paths :**
 
-	Add your images path in the Training.py:
+	Add your images path in the train.py:
 
 	```
 	base_path = "/Style_Transfer/"
@@ -63,7 +63,7 @@ with the aesthetics of well-known artworks.
 3. Start Training your Model by running:
 
  	```sh
-	  python Training.py
+	  python train.py
 	```
 
 ## Output Video is Uploaded on Linkedin 
