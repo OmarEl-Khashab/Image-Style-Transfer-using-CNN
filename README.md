@@ -11,7 +11,7 @@ The implementation is based on the paper of Gatys et al. emphasizes the effectiv
 * [Idea Behind](#idea-behind) 
 * [Prerequisites](#prerequisites)
 * [Installation and Setup](#Installationand_Setup)
-* [Output](#OutputVideo)
+* [Results](#Results)
 * [Acknowledgement](#Acknowledgement)
 
 ## Introduction
@@ -66,8 +66,21 @@ with the aesthetics of well-known artworks.
 	  python train.py
 	```
 
-## Output Video is Uploaded on Linkedin 
+## Results 
 Check the Results:
+
+
+| Content Image                          | Style Image                          | Artwork Image                                 |
+|----------------------------------------|--------------------------------------|-----------------------------------------------|
+| ![Image 1](/results/content_image.png) | ![Image 2](/results/style_image.png) | <img src="/results/results.png" width="2524"/> |
+
+
+| Content Image                            | Style Image                            | Artwork Image                                   |
+|------------------------------------------|----------------------------------------|-------------------------------------------------|
+| ![Image 1](/results/content_image_2.png) | ![Image 2](/results/style_image_2.png) | <img src="/results/results_2.png" width="2408"/> |
+
+
+Project video:
 https://www.linkedin.com/feed/update/urn:li:activity:6760321850833690624/
 
 ## Acknowledgement
